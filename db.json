@@ -1,9 +1,7 @@
 {
 	"members": [
-
 	{	
-		"id":1,
-		"actorID": "001",
+		"actorID": 1,
 		"actorName": "Robert John Downey Jr.",
 		"actorPicture": [
 			{
@@ -21,65 +19,22 @@
 
 		"actorMovies": [
 			{
-				"movieID": "001",
-				"movieName": "鋼鐵人",
-				"moviePicture": [
-					{
-						"pictureID": "001",
-						"pictureUrl": "001"
-					},
-					{
-						"pictureID": "002",
-						"pictureUrl": "001"
-					},
-					{
-						"pictureID": "003",
-						"pictureUrl": "001"
-					}],
-				"movieIntroduce": "IronMan"
+				"movieID": 1,
+				"movieName": "鋼鐵人"
 			},
 			{
-				"movieID": "002",
-				"movieName": "福爾摩斯2：詭影遊戲",
-				"moviePicture": [
-					{
-						"pictureID": "004",
-						"pictureUrl": "001"
-					},
-					{
-						"pictureID": "005",
-						"pictureUrl": "001"
-					},
-					{
-						"pictureID": "006",
-						"pictureUrl": "001"
-					}],
-				"movieIntroduce": "福爾摩斯2"
+				"movieID": 2,
+				"movieName": "福爾摩斯2：詭影遊戲"
 			},
 			{
-				"movieID": "003",
-				"movieName": "大法官",
-				"moviePicture": [
-					{
-						"pictureID": "007",
-						"pictureUrl": "001"
-					},
-					{
-						"pictureID": "008",
-						"pictureUrl": "001"
-					},
-					{
-						"pictureID": "009",
-						"pictureUrl": "001"
-					}],
-				"movieIntroduce": "大法官"
+				"movieID": 3,
+				"movieName": "大法官"
 			}],
 
 		"actorIntroduce":"是一位猶太裔美國演員兼歌手"
 	},
 	{
-		"id":2,
-		"actorID": "002",
+		"actorID": 2,
 		"actorName": "Kappa",
 		"actorPicture": [
 			{
@@ -97,61 +52,131 @@
 
 		"actorMovies": [
 			{
-				"movieID": "004",
-				"movieName": "a",
-				"moviePicture": [
-					{
-						"pictureID": "010",
-						"pictureUrl": "001"
-					},
-					{
-						"pictureID": "011",
-						"pictureUrl": "001"
-					},
-					{
-						"pictureID": "012",
-						"pictureUrl": "001"
-					}],
-				"movieIntroduce": "aIntroduce"
+				"movieID": 4,
+				"movieName": "a"
 			},
 			{
-				"movieID": "005",
-				"movieName": "b",
-				"moviePicture": [
-					{
-						"pictureID": "013",
-						"pictureUrl": "001"
-					},
-					{
-						"pictureID": "014",
-						"pictureUrl": "001"
-					},
-					{
-						"pictureID": "015",
-						"pictureUrl": "001"
-					}],
-				"movieIntroduce": "bIntroduce"
+				"movieID": 5,
+				"movieName": "b"
 			},
 			{
-				"movieID": "006",
+				"movieID": 6,
 				"movieName": "c",
-				"moviePicture": [
-					{
-						"pictureID": "016",
-						"pictureUrl": "001"
-					},
-					{
-						"pictureID": "017",
-						"pictureUrl": "001"
-					},
-					{
-						"pictureID": "018",
-						"pictureUrl": "001"
-					}],
-				"movieIntroduce": "cIntroduce"
 			}],
 
 		"actorIntroduce":"Twitch Kappa"
 	}
+],
+"movies": [
+{
+	"movieID": 1,
+	"movieName": "鋼鐵人",
+	"moviePicture": [
+		{
+			"pictureID": "001",
+			"pictureUrl": "001"
+		},
+		{
+			"pictureID": "002",
+			"pictureUrl": "001"
+		},
+		{
+			"pictureID": "003",
+			"pictureUrl": "001"
+		}],
+	"movieIntroduce": "IronMan"
+},
+{
+	"movieID": 2,
+	"movieName": "福爾摩斯2：詭影遊戲",
+	"moviePicture": [
+		{
+			"pictureID": "004",
+			"pictureUrl": "001"
+		},
+		{
+			"pictureID": "005",
+			"pictureUrl": "001"
+		},
+		{
+			"pictureID": "006",
+			"pictureUrl": "001"
+		}],
+	"movieIntroduce": "福爾摩斯2"
+},
+{
+	"movieID": 3,
+	"movieName": "大法官",
+	"moviePicture": [
+		{
+			"pictureID": "007",
+			"pictureUrl": "001"
+		},
+		{
+			"pictureID": "008",
+			"pictureUrl": "001"
+		},
+		{
+			"pictureID": "009",
+			"pictureUrl": "001"
+		}],
+	"movieIntroduce": "大法官"
+},
+{
+	"movieID": 4,
+	"movieName": "a",
+	"moviePicture": [
+		{
+			"pictureID": "010",
+			"pictureUrl": "001"
+		},
+		{
+			"pictureID": "011",
+			"pictureUrl": "001"
+		},
+		{
+			"pictureID": "012",
+			"pictureUrl": "001"
+		}],
+	"movieIntroduce": "Introduce of ID:4"
+},
+{
+	"movieID": 5,
+	"movieName": "b",
+	"moviePicture": [
+		{
+			"pictureID": "013",
+			"pictureUrl": "001"
+		},
+		{
+			"pictureID": "014",
+			"pictureUrl": "001"
+		},
+		{
+			"pictureID": "015",
+			"pictureUrl": "001"
+		}],
+	"movieIntroduce": "Introduce of ID:5"
+},
+{
+	"movieID": 6,
+	"movieName": "c",
+	"moviePicture": [
+		{
+			"pictureID": "016",
+			"pictureUrl": "001"
+		},
+		{
+			"pictureID": "017",
+			"pictureUrl": "001"
+		},
+		{
+			"pictureID": "018",
+			"pictureUrl": "001"
+		}],
+	"movieIntroduce": "Introduce of ID:6"
+}
+
+
 ]}
 	
