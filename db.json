@@ -1,6 +1,7 @@
 {
 "members": [
 	{	
+		"id": 1,
 		"actorID": 1,
 		"actorName": "Robert John Downey Jr.",
 		"actorPicture": [
@@ -34,6 +35,7 @@
 		"actorIntroduce":"是一位猶太裔美國演員兼歌手"
 	},
 	{
+		"id": 2,
 		"actorID": 2,
 		"actorName": "Kappa",
 		"actorPicture": [
@@ -67,7 +69,8 @@
 		"actorIntroduce":"Twitch Kappa"
 	}],
 "movies": [
-{
+{	
+	"id": 1,
 	"movieID": 1,
 	"movieName": "鋼鐵人",
 	"moviePicture": [
@@ -86,6 +89,7 @@
 	"movieIntroduce": "IronMan"
 },
 {
+	"id": 2,
 	"movieID": 2,
 	"movieName": "福爾摩斯2：詭影遊戲",
 	"moviePicture": [
@@ -104,6 +108,7 @@
 	"movieIntroduce": "福爾摩斯2"
 },
 {
+	"id": 3,
 	"movieID": 3,
 	"movieName": "大法官",
 	"moviePicture": [
@@ -122,6 +127,7 @@
 	"movieIntroduce": "大法官"
 },
 {
+	"id": 4,
 	"movieID": 4,
 	"movieName": "a",
 	"moviePicture": [
@@ -140,6 +146,7 @@
 	"movieIntroduce": "Introduce of ID:4"
 },
 {
+	"id": 5,
 	"movieID": 5,
 	"movieName": "b",
 	"moviePicture": [
@@ -158,6 +165,7 @@
 	"movieIntroduce": "Introduce of ID:5"
 },
 {
+	"id": 6,
 	"movieID": 6,
 	"movieName": "c",
 	"moviePicture": [
