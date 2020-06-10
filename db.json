@@ -1,5 +1,5 @@
 {
-	"members": [
+"members": [
 	{	
 		"actorID": 1,
 		"actorName": "Robert John Downey Jr.",
@@ -61,12 +61,11 @@
 			},
 			{
 				"movieID": 6,
-				"movieName": "c",
+				"movieName": "c"
 			}],
 
 		"actorIntroduce":"Twitch Kappa"
-	}
-],
+	}],
 "movies": [
 {
 	"movieID": 1,
@@ -175,8 +174,5 @@
 			"pictureUrl": "001"
 		}],
 	"movieIntroduce": "Introduce of ID:6"
+}]
 }
-
-
-]}
-	
