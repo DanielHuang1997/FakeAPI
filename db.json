@@ -1,6 +1,8 @@
 {
 	"members": [
-	{
+
+	{	
+		"id":1,
 		"actorID": "001",
 		"actorName": "Robert John Downey Jr.",
 		"actorPicture": [
@@ -76,6 +78,7 @@
 		"actorIntroduce":"是一位猶太裔美國演員兼歌手"
 	},
 	{
+		"id":2,
 		"actorID": "002",
 		"actorName": "Kappa",
 		"actorPicture": [
