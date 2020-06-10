@@ -17,11 +17,11 @@
 				"pictureUrl": "001003"
 			}],
 
-		"actorPlays": [
+		"actorMovies": [
 			{
-				"playID": "001",
-				"playName": "鋼鐵人",
-				"playPicture": [
+				"MovieID": "001",
+				"MovieName": "鋼鐵人",
+				"MoviePicture": [
 					{
 						"pictureID": "001",
 						"pictureUrl": "001"
@@ -34,12 +34,12 @@
 						"pictureID": "003",
 						"pictureUrl": "001"
 					}],
-				"playIntroduce": "IronMan"
+				"MovieIntroduce": "IronMan"
 			},
 			{
-				"playID": "002",
-				"playName": "福爾摩斯2：詭影遊戲",
-				"playPicture": [
+				"MovieID": "002",
+				"MovieName": "福爾摩斯2：詭影遊戲",
+				"MoviePicture": [
 					{
 						"pictureID": "004",
 						"pictureUrl": "001"
@@ -52,12 +52,12 @@
 						"pictureID": "006",
 						"pictureUrl": "001"
 					}],
-				"playIntroduce": "福爾摩斯2"
+				"MovieIntroduce": "福爾摩斯2"
 			},
 			{
-				"playID": "003",
-				"playName": "大法官",
-				"playPicture": [
+				"MovieID": "003",
+				"MovieName": "大法官",
+				"MoviePicture": [
 					{
 						"pictureID": "007",
 						"pictureUrl": "001"
@@ -70,7 +70,7 @@
 						"pictureID": "009",
 						"pictureUrl": "001"
 					}],
-				"playIntroduce": "大法官"
+				"MovieIntroduce": "大法官"
 			}],
 
 		"actorIntroduce":"是一位猶太裔美國演員兼歌手"
@@ -92,11 +92,11 @@
 				"pictureUrl": "001003"
 			}],
 
-		"actorPlays": [
+		"actorMovies": [
 			{
-				"playID": "004",
-				"playName": "a",
-				"playPicture": [
+				"MovieID": "004",
+				"MovieName": "a",
+				"MoviePicture": [
 					{
 						"pictureID": "010",
 						"pictureUrl": "001"
@@ -109,12 +109,12 @@
 						"pictureID": "012",
 						"pictureUrl": "001"
 					}],
-				"playIntroduce": "aIntroduce"
+				"MovieIntroduce": "aIntroduce"
 			},
 			{
-				"playID": "005",
-				"playName": "b",
-				"playPicture": [
+				"MovieID": "005",
+				"MovieName": "b",
+				"MoviePicture": [
 					{
 						"pictureID": "013",
 						"pictureUrl": "001"
@@ -127,12 +127,12 @@
 						"pictureID": "015",
 						"pictureUrl": "001"
 					}],
-				"playIntroduce": "bIntroduce"
+				"MovieIntroduce": "bIntroduce"
 			},
 			{
-				"playID": "006",
-				"playName": "c",
-				"playPicture": [
+				"MovieID": "006",
+				"MovieName": "c",
+				"MoviePicture": [
 					{
 						"pictureID": "016",
 						"pictureUrl": "001"
@@ -145,7 +145,7 @@
 						"pictureID": "018",
 						"pictureUrl": "001"
 					}],
-				"playIntroduce": "cIntroduce"
+				"MovieIntroduce": "cIntroduce"
 			}],
 
 		"actorIntroduce":"Twitch Kappa"
