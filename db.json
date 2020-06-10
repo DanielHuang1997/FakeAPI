@@ -4,20 +4,6 @@
 		"id": 1,
 		"actorID": 1,
 		"actorName": "Robert John Downey Jr.",
-		"actorPicture": [
-			{
-				"pictureID": "001",
-				"pictureUrl": "001001"
-			},
-			{
-				"pictureID": "002",
-				"pictureUrl": "001002"
-			},
-			{
-				"pictureID": "003",
-				"pictureUrl": "001003"
-			}],
-
 		"actorMovies": [
 			{
 				"movieID": 1,
@@ -38,20 +24,6 @@
 		"id": 2,
 		"actorID": 2,
 		"actorName": "Kappa",
-		"actorPicture": [
-			{
-				"pictureID": "004",
-				"pictureUrl": "001001"
-			},
-			{
-				"pictureID": "005",
-				"pictureUrl": "001002"
-			},
-			{
-				"pictureID": "006",
-				"pictureUrl": "001003"
-			}],
-
 		"actorMovies": [
 			{
 				"movieID": 4,
@@ -67,120 +39,192 @@
 			}],
 
 		"actorIntroduce":"Twitch Kappa"
-	}],
+	}
+],
+"actorPicture": [
+	{
+		"id": 1,
+		"pictureID": 1,
+		"actorID": 1,
+		"pictureUrl": "001001"
+	},
+	{
+		"id": 2,
+		"pictureID": 2,
+		"actorID": 1,
+		"pictureUrl": "001001"
+	},
+	{
+		"id": 3,
+		"pictureID": 3,
+		"actorID": 1,
+		"pictureUrl": "001001"
+	},
+	{
+		"id": 4,
+		"pictureID": 4,
+		"actorID": 2,
+		"pictureUrl": "001001"
+	},
+	{
+		"id": 5,
+		"pictureID": 5,
+		"actorID": 2,
+		"pictureUrl": "001001"
+	},
+	{
+		"id": 6,
+		"pictureID": 6,
+		"actorID": 2,
+		"pictureUrl": "001001"
+	}
+],
 "movies": [
-{	
-	"id": 1,
-	"movieID": 1,
-	"movieName": "鋼鐵人",
-	"moviePicture": [
-		{
-			"pictureID": "001",
-			"pictureUrl": "001"
-		},
-		{
-			"pictureID": "002",
-			"pictureUrl": "001"
-		},
-		{
-			"pictureID": "003",
-			"pictureUrl": "001"
-		}],
-	"movieIntroduce": "IronMan"
-},
-{
-	"id": 2,
-	"movieID": 2,
-	"movieName": "福爾摩斯2：詭影遊戲",
-	"moviePicture": [
-		{
-			"pictureID": "004",
-			"pictureUrl": "001"
-		},
-		{
-			"pictureID": "005",
-			"pictureUrl": "001"
-		},
-		{
-			"pictureID": "006",
-			"pictureUrl": "001"
-		}],
-	"movieIntroduce": "福爾摩斯2"
-},
-{
-	"id": 3,
-	"movieID": 3,
-	"movieName": "大法官",
-	"moviePicture": [
-		{
-			"pictureID": "007",
-			"pictureUrl": "001"
-		},
-		{
-			"pictureID": "008",
-			"pictureUrl": "001"
-		},
-		{
-			"pictureID": "009",
-			"pictureUrl": "001"
-		}],
-	"movieIntroduce": "大法官"
-},
-{
-	"id": 4,
-	"movieID": 4,
-	"movieName": "a",
-	"moviePicture": [
-		{
-			"pictureID": "010",
-			"pictureUrl": "001"
-		},
-		{
-			"pictureID": "011",
-			"pictureUrl": "001"
-		},
-		{
-			"pictureID": "012",
-			"pictureUrl": "001"
-		}],
-	"movieIntroduce": "Introduce of ID:4"
-},
-{
-	"id": 5,
-	"movieID": 5,
-	"movieName": "b",
-	"moviePicture": [
-		{
-			"pictureID": "013",
-			"pictureUrl": "001"
-		},
-		{
-			"pictureID": "014",
-			"pictureUrl": "001"
-		},
-		{
-			"pictureID": "015",
-			"pictureUrl": "001"
-		}],
-	"movieIntroduce": "Introduce of ID:5"
-},
-{
-	"id": 6,
-	"movieID": 6,
-	"movieName": "c",
-	"moviePicture": [
-		{
-			"pictureID": "016",
-			"pictureUrl": "001"
-		},
-		{
-			"pictureID": "017",
-			"pictureUrl": "001"
-		},
-		{
-			"pictureID": "018",
-			"pictureUrl": "001"
-		}],
-	"movieIntroduce": "Introduce of ID:6"
-}]
+	{	
+		"id": 1,
+		"movieID": 1,
+		"movieName": "鋼鐵人",
+		"movieIntroduce": "IronMan"
+	},
+	{
+		"id": 2,
+		"movieID": 2,
+		"movieName": "福爾摩斯2：詭影遊戲",
+		"movieIntroduce": "福爾摩斯2"
+	},
+	{
+		"id": 3,
+		"movieID": 3,
+		"movieName": "大法官",
+		"movieIntroduce": "大法官"
+	},
+	{
+		"id": 4,
+		"movieID": 4,
+		"movieName": "a",
+		"movieIntroduce": "Introduce of ID:4"
+	},
+	{
+		"id": 5,
+		"movieID": 5,
+		"movieName": "b",
+		"movieIntroduce": "Introduce of ID:5"
+	},
+	{
+		"id": 6,
+		"movieID": 6,
+		"movieName": "c",
+		"movieIntroduce": "Introduce of ID:6"
+	}
+],
+"moviePicture": [
+	{
+		"id": 1,
+		"pictureID": 1,
+		"movieID": 1,
+		"pictureUrl": "001"
+	},
+	{
+		"id": 2,
+		"pictureID": 2,
+		"movieID": 1,
+		"pictureUrl": "001"
+	},
+	{
+		"id": 3,
+		"pictureID": 3,
+		"movieID": 1,
+		"pictureUrl": "001"
+	},
+	{
+		"id": 4,
+		"pictureID": 4,
+		"movieID": 2,
+		"pictureUrl": "001"
+	},
+	{
+		"id": 5,
+		"pictureID": 5,
+		"movieID": 2,
+		"pictureUrl": "001"
+	},
+	{
+		"id": 6,
+		"pictureID": 6,
+		"movieID": 2,
+		"pictureUrl": "001"
+	},
+	{
+		"id": 7,
+		"pictureID": 7,
+		"movieID": 3,
+		"pictureUrl": "001"
+	},
+	{
+		"id": 8,
+		"pictureID": 8,
+		"movieID": 3,
+		"pictureUrl": "001"
+	},
+	{
+		"id": 9,
+		"pictureID": 9,
+		"movieID": 3,
+		"pictureUrl": "001"
+	},
+	{
+		"id": 10,
+		"pictureID": 10,
+		"movieID": 4,
+		"pictureUrl": "001"
+	},
+	{
+		"id": 11,
+		"pictureID": 11,
+		"movieID": 4,
+		"pictureUrl": "001"
+	},
+	{
+		"id": 12,
+		"pictureID": 12,
+		"movieID": 4,
+		"pictureUrl": "001"
+	},
+	{
+		"id": 13,
+		"pictureID": 13,
+		"movieID": 5,
+		"pictureUrl": "001"
+	},
+	{
+		"id": 14,
+		"pictureID": 14,
+		"movieID": 5,
+		"pictureUrl": "001"
+	},
+	{
+		"id": 15,
+		"pictureID": 15,
+		"movieID": 5,
+		"pictureUrl": "001"
+	},
+	{
+		"id": 16,
+		"pictureID": 16,
+		"movieID": 6,
+		"pictureUrl": "001"
+	},
+	{
+		"id": 17,
+		"pictureID": 17,
+		"movieID": 6,
+		"pictureUrl": "001"
+	},
+	{
+		"id": 18,
+		"pictureID": 18,
+		"movieID": 6,
+		"pictureUrl": "001"
+	}
+]
 }
