@@ -83,36 +83,42 @@
 		{	
 			"id": 1,
 			"movieID": 1,
+			"actorID": 1,
 			"movieName": "鋼鐵人",
 			"movieIntroduce": "IronMan"
 		},
 		{
 			"id": 2,
 			"movieID": 2,
+			"actorID": 1,
 			"movieName": "福爾摩斯2：詭影遊戲",
 			"movieIntroduce": "福爾摩斯2"
 		},
 		{
 			"id": 3,
 			"movieID": 3,
+			"actorID": 1,
 			"movieName": "大法官",
 			"movieIntroduce": "大法官"
 		},
 		{
 			"id": 4,
 			"movieID": 4,
+			"actorID": 2,
 			"movieName": "a",
 			"movieIntroduce": "Introduce of ID:4"
 		},
 		{
 			"id": 5,
 			"movieID": 5,
+			"actorID": 2,
 			"movieName": "b",
 			"movieIntroduce": "Introduce of ID:5"
 		},
 		{
 			"id": 6,
 			"movieID": 6,
+			"actorID": 2,
 			"movieName": "c",
 			"movieIntroduce": "Introduce of ID:6"
 		}
