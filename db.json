@@ -23,22 +23,22 @@
 		{
 			"id": 2,
 			"actorID": 2,
-			"actorName": "Twitch",
+			"actorName": "Daniel Jacob Radcliffe",
 			"actorMovies": [
 				{
 					"movieID": 4,
-					"movieName": "a"
+					"movieName": "哈利波特：死神的聖物Ⅱ"
 				},
 				{
 					"movieID": 5,
-					"movieName": "b"
+					"movieName": "出神入化2"
 				},
 				{
 					"movieID": 6,
-					"movieName": "c"
+					"movieName": "摩比小子大電影"
 				}],
 
-			"actorIntroduce":"Twitch Kappa"
+			"actorIntroduce":"是一名英國男演員，因在哈利波特系列電影中飾演哈利·波特而廣為人知。"
 		}
 	],
 	"actorPicture": [
@@ -64,19 +64,19 @@
 			"id": 4,
 			"pictureID": 4,
 			"actorID": 2,
-			"pictureUrl": "https://f0.pngfuel.com/png/480/467/man-face-grayscale-photo-png-clip-art.png"
+			"pictureUrl": "https://zh.wikipedia.org/wiki/%E4%B8%B9%E5%B0%BC%E5%B0%94%C2%B7%E6%8B%89%E5%BE%B7%E5%85%8B%E5%88%A9%E5%A4%AB#/media/File:Daniel_Radcliffe_SDCC_2014.jpg"
 		},
 		{
 			"id": 5,
 			"pictureID": 5,
 			"actorID": 2,
-			"pictureUrl": "https://img.pngio.com/lul-twitch-emote-png-100-images-in-collection-page-3-lul-png-528_352.jpg"
+			"pictureUrl": "https://harrypottertoengland.webnode.tw/_files/200000506-320de3401e/imagesCABY0USK.jpg"
 		},
 		{
 			"id": 6,
 			"pictureID": 6,
 			"actorID": 2,
-			"pictureUrl": "https://preview.redd.it/hsankad6xok31.jpg?width=960&crop=smart&auto=webp&s=2fc2c20ab41d347c306baede878d82b3b9953b2f"
+			"pictureUrl": "https://frommetoworld.files.wordpress.com/2011/10/danielradcliffe.jpg"
 		}
 	],
 	"movies": [
@@ -85,42 +85,42 @@
 			"movieID": 1,
 			"actorID": 1,
 			"movieName": "鋼鐵人",
-			"movieIntroduce": "IronMan"
+			"movieIntroduce": "《鋼鐵人》（英語：Iron Man）是一部2008年上映的美國超級英雄電影，由強·法夫洛執導，馬克·弗格斯、霍克·奧斯比、艾特·馬柯姆與麥特·霍洛威共同編劇，劇情圍繞著漫威漫畫旗下超級英雄鋼鐵人展開。該片由漫威工作室製作，派拉蒙影業負責發行，為漫威電影宇宙系列電影中的第一部作品。《鋼鐵人》的主演包含小勞勃·道尼、泰倫斯·霍華、傑夫·布里吉、肖恩·托布及葛妮絲·派特洛等人，劇情講述身兼企業家與發明家的東尼·史塔克（道尼飾演）打造了一套鋼鐵人動力服，進而成為擁有先進技術的超級英雄鋼鐵人。"
 		},
 		{
 			"id": 2,
 			"movieID": 2,
 			"actorID": 1,
 			"movieName": "福爾摩斯2：詭影遊戲",
-			"movieIntroduce": "福爾摩斯2"
+			"movieIntroduce": "《福爾摩斯2：詭影遊戲》（英語：Sherlock Holmes: A Game of Shadows）是一部2011年上映的動作懸疑片，為2009年《福爾摩斯》的續集。影片基本上採用了第一部的原班人馬，依然由蓋·瑞奇執導，小勞勃·道尼、裘德·洛和瑞秋·麥亞當斯主演。影片於2011年12月15日在香港和澳門上映，12月16日在美國、英國和臺灣上映，2012年1月15日在中國上映。"
 		},
 		{
 			"id": 3,
 			"movieID": 3,
 			"actorID": 1,
 			"movieName": "大法官",
-			"movieIntroduce": "大法官"
+			"movieIntroduce": "《大法官》（英語：The Judge，中國大陸譯《法官老爹》，香港譯《辯父律師》，新加坡譯《大法官》）是一部於2014年上映的美國劇情電影，由大衛·多布金執導，小勞勃·道尼、勞勃·杜瓦、薇拉·法蜜嘉、文森·唐諾佛利歐、傑瑞米·史特朗、戴克斯·夏普德及比利·鮑伯·松頓等人擔任主演。劇情講述一名芝加哥的律師漢克·帕爾默回到位於印第安納州的老家，並在父親約瑟夫·帕爾默駕車肇事後為其進行辯護的故事。"
 		},
 		{
 			"id": 4,
 			"movieID": 4,
 			"actorID": 2,
-			"movieName": "a",
-			"movieIntroduce": "Introduce of ID:4"
+			"movieName": "哈利波特：死神的聖物Ⅱ",
+			"movieIntroduce": "在終極篇的第二部，正邪一戰將會全面爆發。危機升級至前所未見的凶險，沒有一個人能置身事外。但是，只有哈利波特一人會需要獨自與佛地魔展開終極一戰。"
 		},
 		{
 			"id": 5,
 			"movieID": 5,
 			"actorID": 2,
-			"movieName": "b",
-			"movieIntroduce": "Introduce of ID:5"
+			"movieName": "出神入化2",
+			"movieIntroduce": "在智取聯邦調查局贏得大眾目光的一年後，四騎士的成員正靜候天眼的指示，他們的接應人正是聯邦調查局的迪倫羅德斯，但同時間，負責追查四騎士的聯邦調查局副主任娜塔莉，也正步步拼湊蛛絲馬跡追捕四騎士。儘管迪倫要四騎士靜候指示，但大夥都已厭倦漫長的等待，更令擅長脫逃的成員海妮離去，此時領導四騎士的丹尼爾意外收到了訊息，告訴他等待已結束，要求他們揭穿科技人才歐文·凱斯的陰謀，並竊取其數據資料，情急之下迪倫招來了新的成員露拉，計畫在凱斯的產品發表會上讓四騎士復出。"
 		},
 		{
 			"id": 6,
 			"movieID": 6,
 			"actorID": 2,
-			"movieName": "c",
-			"movieIntroduce": "Introduce of ID:6"
+			"movieName": "摩比小子大電影",
+			"movieIntroduce": "瑪拉被迫放棄了她原有的生活，而展開了一場史詩般的旅程，以尋找已消失在廣闊且奇妙的摩比玩具世界中的弟弟查理。"
 		}
 	],
 	"moviePicture": [
@@ -128,109 +128,109 @@
 			"id": 1,
 			"pictureID": 1,
 			"movieID": 1,
-			"pictureUrl": "001"
+			"pictureUrl": "https://i1.wp.com/overdope.com/wp-content/uploads/2019/09/2019-09-06_145628.jpg"
 		},
 		{
 			"id": 2,
 			"pictureID": 2,
 			"movieID": 1,
-			"pictureUrl": "001"
+			"pictureUrl": "https://news.agentm.tw/wp-content/uploads/iron-man-cool-guys-dont-look-at-explosions-222059-1280x0-768x461.jpg"
 		},
 		{
 			"id": 3,
 			"pictureID": 3,
 			"movieID": 1,
-			"pictureUrl": "001"
+			"pictureUrl": "https://pic.pimg.tw/dos19891120/1366810678-3504669638_n.jpg"
 		},
 		{
 			"id": 4,
 			"pictureID": 4,
 			"movieID": 2,
-			"pictureUrl": "001"
+			"pictureUrl": "https://i1.kknews.cc/SIG=1lrbhbe/qq60003oq7r48395p0o.jpg"
 		},
 		{
 			"id": 5,
 			"pictureID": 5,
 			"movieID": 2,
-			"pictureUrl": "001"
+			"pictureUrl": "https://byb-cdn.s3.amazonaws.com/m/images/o/6811a9990e8b4194_m.jpg"
 		},
 		{
 			"id": 6,
 			"pictureID": 6,
 			"movieID": 2,
-			"pictureUrl": "001"
+			"pictureUrl": "https://i2.kknews.cc/SIG=l5e49i/ctp-vzntr/15257623925994pssp1r6sn.jpg"
 		},
 		{
 			"id": 7,
 			"pictureID": 7,
 			"movieID": 3,
-			"pictureUrl": "001"
+			"pictureUrl": "https://pic.pimg.tw/sping60/1413896641-2175720533.jpg"
 		},
 		{
 			"id": 8,
 			"pictureID": 8,
 			"movieID": 3,
-			"pictureUrl": "001"
+			"pictureUrl": "https://pic.pimg.tw/sping60/1413995124-1120564863.jpg"
 		},
 		{
 			"id": 9,
 			"pictureID": 9,
 			"movieID": 3,
-			"pictureUrl": "001"
+			"pictureUrl": "https://pic.pimg.tw/sping60/1413995148-3861594113_l.jpg"
 		},
 		{
 			"id": 10,
 			"pictureID": 10,
 			"movieID": 4,
-			"pictureUrl": "001"
+			"pictureUrl": "https://images2.gamme.com.tw/news2/2011/28/04/p56YoKOdmKGX.jpg"
 		},
 		{
 			"id": 11,
 			"pictureID": 11,
 			"movieID": 4,
-			"pictureUrl": "001"
+			"pictureUrl": "https://images2.gamme.com.tw/news2/2011/28/04/p56YoKOdmKGY.jpg"
 		},
 		{
 			"id": 12,
 			"pictureID": 12,
 			"movieID": 4,
-			"pictureUrl": "001"
+			"pictureUrl": "https://images2.gamme.com.tw/news2/2011/28/04/p56YoKOdmKGZ.jpg"
 		},
 		{
 			"id": 13,
 			"pictureID": 13,
 			"movieID": 5,
-			"pictureUrl": "001"
+			"pictureUrl": "https://s.yimg.com/vu/movies/fp/mpost/62/15/6215.jpg"
 		},
 		{
 			"id": 14,
 			"pictureID": 14,
 			"movieID": 5,
-			"pictureUrl": "001"
+			"pictureUrl": "https://i.imgur.com/mEx9iDW.jpg"
 		},
 		{
 			"id": 15,
 			"pictureID": 15,
 			"movieID": 5,
-			"pictureUrl": "001"
+			"pictureUrl": "https://i.imgur.com/dfBwmQ3.jpg"
 		},
 		{
 			"id": 16,
 			"pictureID": 16,
 			"movieID": 6,
-			"pictureUrl": "001"
+			"pictureUrl": "https://im2.book.com.tw/image/getImage?i=https://www.books.com.tw/img/002/021/35/0020213519.jpg"
 		},
 		{
 			"id": 17,
 			"pictureID": 17,
 			"movieID": 6,
-			"pictureUrl": "001"
+			"pictureUrl": "https://zh.wikipedia.org/wiki/%E6%91%A9%E6%AF%94%E5%B0%8F%E5%AD%90%E5%A4%A7%E7%94%B5%E5%BD%B1#/media/File:Playmobil_The_Movie_Poster.jpg"
 		},
 		{
 			"id": 18,
 			"pictureID": 18,
 			"movieID": 6,
-			"pictureUrl": "001"
+			"pictureUrl": "https://www.newton.com.tw/img/a/a7b/nBnauU2MlFTMzkzNzMmZhZzM5YmYhFDZwQWZzQjNiFGZlJmZiZmY0YGM1E2LtVGdp9yYpB3LltWahJ2Lt92YuUHZpFmYuMmczdWbp9yL6MHc0RHa.jpg"
 		}
 	]
 }
