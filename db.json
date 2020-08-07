@@ -55,12 +55,6 @@
 			"pictureUrl": "https://i1.wp.com/overdope.com/wp-content/uploads/2019/09/2019-09-06_145628.jpg?fit=800%2C419&ssl=1"
 		},
 		{
-			"id": 3,
-			"pictureID": 3,
-			"actorID": 1,
-			"pictureUrl": "https://res2.pubu.tw/news/1577/42668/wKH8kA_xl.jpg"
-		},
-		{
 			"id": 4,
 			"pictureID": 4,
 			"actorID": 2,
@@ -73,7 +67,7 @@
 			"pictureUrl": "https://harrypottertoengland.webnode.tw/_files/200000506-320de3401e/imagesCABY0USK.jpg"
 		},
 		{
-			"id": 6,
+			"id": 3,
 			"pictureID": 6,
 			"actorID": 2,
 			"pictureUrl": "https://frommetoworld.files.wordpress.com/2011/10/danielradcliffe.jpg"
